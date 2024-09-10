@@ -1,3 +1,5 @@
+## Esse projeto foi resultado de uma experiência excelente com a parceria entre Alura e Google - Imersão Dev
+
 ## Atletas do Brasil
 
 Uma plataforma para pesquisar e conhecer mais sobre os atletas brasileiros.
