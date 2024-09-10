@@ -1,4 +1,4 @@
-## Esse projeto foi resultado de uma experiência excelente com a parceria entre Alura e Google - Imersão Dev
+## Esse projeto foi resultado de uma experiência excelente com a parceria entre Alura e Google - Imersão Dev - Parabéns aos envolvidos!
 
 ## Atletas do Brasil
 
@@ -23,3 +23,4 @@ Uma plataforma para pesquisar e conhecer mais sobre os atletas brasileiros.
 ### Tecnologias utilizadas
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** Node.js
+## https://destaquesolimpicos.vercel.app/
